@@ -1,6 +1,10 @@
-# 📊 Excel Sales Dashboard Project | Swiggy Data Analysis  
+<img src="https://readme-typing-svg.herokuapp.com?lines=Loading+Project+Overview...;Analyzing+Sales+Data...;Building+Interactive+Dashboard...&center=true&width=900&height=40&color=ff8c00" />
+
+# 📊 Excel Sales Dashboard Project | Swiggy Data Analysis 
+
 
 ## 🧾 Project Description  
+
 This project focuses on analyzing **real-world food delivery sales data** using **Microsoft Excel**.  
 The goal is to transform raw transactional data into **meaningful insights** through **data cleaning, KPI calculation, and an interactive dashboard**.  
 This project demonstrates practical skills in **Excel analytics, reporting, and business decision-making**.
