@@ -45,7 +45,7 @@ The dataset represents **Swiggy-style food delivery sales data**.
 ---
 
 
-## ❓ Business Questions / KPIs  
+## ❓ KPIs  
 The dashboard answers the following key questions:
 
 - 📌 **Total Sales Revenue**
@@ -79,12 +79,10 @@ The dashboard answers the following key questions:
 
 ---
 
-## 📈 Dashboard Features  
-- 📊 KPI Cards (Total Sales, Orders, AOV)  
-- 📊 City-wise & Category-wise Sales Charts  
-- 📊 Monthly Sales Trend Line Chart  
-- 🎛️ Interactive Slicers (City, Category, Date)  
-- 🎨 Clean and user-friendly layout  
+## 📈 Dashboard
+
+ <img width="692" height="386" alt="swiggydashboard" src="https://github.com/user-attachments/assets/070a2c29-3dc8-47f1-bf0b-5b6e184e9f02" />
+
 
 ---
 
